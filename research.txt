@@ -1,0 +1,33 @@
+Technology Research
+
+Technology: Data Science
+
+1. What is Data Science?
+Data Science is the process of collecting, analyzing, and interpreting data to solve problems and help businesses make better decisions.
+
+2. Where is it used?
+- Healthcare
+- Banking
+- E-commerce
+- Education
+- Finance
+- Social Media
+
+3. Required Skillset
+- Python
+- SQL
+- Statistics
+- Machine Learning
+- Excel
+- Power BI
+- Communication Skills
+
+4. Career Opportunities
+- Data Analyst
+- Data Scientist
+- Machine Learning Engineer
+- Business Analyst
+- Data Engineer
+
+5. Future Scope
+Data Science is one of the fastest-growing fields. Companies are hiring data professionals worldwide, and demand is expected to increase in the coming years.
